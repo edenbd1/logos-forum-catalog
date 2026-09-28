@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "name": "logos-forum",
+  "displayName": "Logos Forum",
+  "description": "A serverless forum over Logos Delivery and Logos Storage. Its dependencies (delivery_module, storage_module) come from the official Logos catalog.",
+  "homepage": "https://github.com/edenbd1/logos-forum-catalog",
+  "indexUrl": "https://raw.githubusercontent.com/edenbd1/logos-forum-catalog/main/index.json",
+  "trustedSigners": []
+}
