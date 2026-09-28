@@ -8,6 +8,8 @@ under an alias, or anonymously.
 
 ## Install in Basecamp (0.3.0)
 
+macOS (Apple silicon) and Linux (x86_64).
+
 1. **Settings → Package Repositories → Add a repository**, paste
 
    ```
