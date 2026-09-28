@@ -25,7 +25,7 @@ under an alias, or anonymously.
 |---|---|
 | `logos-repo.json` | the repository descriptor Basecamp reads |
 | `index.json` | packages, versions, SHA-256 and download URLs |
-| release `logos_forum-v0.1.0` | the `.lgx` package itself |
+| releases `logos_forum-v*` | the `.lgx` packages themselves |
 
 The format is that of the official
 [`logos-modules-release`](https://github.com/logos-co/logos-modules-release).

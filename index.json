@@ -1,11 +1,52 @@
 {
   "schemaVersion": 1,
   "repositoryName": "logos-forum",
-  "generatedAt": "2026-09-28T22:03:42Z",
+  "generatedAt": "2026-09-28T22:19:35Z",
   "packages": [
     {
       "name": "logos_forum",
       "versions": [
+        {
+          "releasedAt": "2026-09-28T22:19:35Z",
+          "publisherRef": "logos_forum-v0.1.1",
+          "url": "https://github.com/edenbd1/logos-forum-catalog/releases/download/logos_forum-v0.1.1/logos_forum-0.1.1.lgx",
+          "size": 5505345,
+          "sha256": "4ba1d67748b9c03c7a0b0686a134014f5375c4d13a2a62c7af258d98289d5706",
+          "rootHash": "c7e10ada66547bef7f32fb2d30434d92ce47eddc68473a8dd3df91d38b8c20e4",
+          "manifest": {
+            "author": "",
+            "category": "social",
+            "dependencies": [
+              {
+                "name": "delivery_module",
+                "version": "~0.2.1"
+              },
+              {
+                "name": "storage_module",
+                "version": "~2.1.2"
+              }
+            ],
+            "description": "A forum with no server. Topics and replies travel over Logos Delivery, history is kept on this device and on Logos Storage, and every post is signed and verified on arrival. Post as an account, under an alias, or anonymously.",
+            "display_name": "Logos Forum",
+            "hashes": {
+              "root": "c7e10ada66547bef7f32fb2d30434d92ce47eddc68473a8dd3df91d38b8c20e4",
+              "variants": "38d64ffe2c21727cf0d1025f5b10e155d935477521e827bd5c5e3df9d320bef0",
+              "variants/darwin-arm64": "2da340247b7e70d2607d3537cdf579777eb954c97436ae72be10b14cac88e7bd"
+            },
+            "icon": "",
+            "main": {
+              "darwin-arm64": "logos_forum_plugin.dylib"
+            },
+            "manifestVersion": "0.3.0",
+            "name": "logos_forum",
+            "type": "ui_qml",
+            "version": "0.1.1",
+            "view": "qml/Main.qml"
+          },
+          "urls": [
+            "https://github.com/edenbd1/logos-forum-catalog/releases/download/logos_forum-v0.1.1/logos_forum-0.1.1.lgx"
+          ]
+        },
         {
           "releasedAt": "2026-09-28T22:03:42Z",
           "publisherRef": "logos_forum-v0.1.0",
