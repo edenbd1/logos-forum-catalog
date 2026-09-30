@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "repositoryName": "logos-forum",
-  "generatedAt": "2026-09-30T11:26:58Z",
+  "generatedAt": "2026-09-30T12:26:47Z",
   "packages": [
     {
       "name": "logos_forum",
       "versions": [
         {
-          "releasedAt": "2026-09-30T11:26:58Z",
-          "publisherRef": "logos_forum-v0.1.10",
-          "url": "https://github.com/edenbd1/logos-forum-catalog/releases/download/logos_forum-v0.1.10/logos_forum-0.1.10.lgx",
-          "size": 11999989,
-          "sha256": "793bbd550bc7a80809cbd9126f6f7c9067f3e5710fa298868bbdf57cc51eb811",
-          "rootHash": "585eb45f6e016e41e4979189dcfc19af17d1a28e6ba8ba426088fb5bcd599d21",
+          "releasedAt": "2026-09-30T12:26:47Z",
+          "publisherRef": "logos_forum-v0.1.11",
+          "url": "https://github.com/edenbd1/logos-forum-catalog/releases/download/logos_forum-v0.1.11/logos_forum-0.1.11.lgx",
+          "size": 12000016,
+          "sha256": "3779eca5e54f6041088e5c0119a9ded310fcb6cbabf283b61f300e3421ef75e0",
+          "rootHash": "7a13163ba4b4a2a7d5b44baaf5721f0333d1e9aa55348737d0edc352ccc8429b",
           "manifest": {
             "author": "",
             "category": "social",
@@ -29,10 +29,10 @@
             "description": "A forum with no server. Topics and replies travel over Logos Messaging (Logos Delivery), history is kept on this device and on Logos Storage, and every post is signed and verified on arrival. Post as an account, under an alias, or anonymously.",
             "display_name": "Logos Forum",
             "hashes": {
-              "root": "585eb45f6e016e41e4979189dcfc19af17d1a28e6ba8ba426088fb5bcd599d21",
-              "variants": "4d7e92f00293c7b0984c00487809f32489a26ce3dbf29f57958f7fcf97716540",
-              "variants/darwin-arm64": "ca25435357a211b51a2146617f4459ebf342061096f22e56fb0c96af10516d1a",
-              "variants/linux-amd64": "f57e6a71d64bc2c70c9f53f3ac92242e1800520e5ea674d08717061de46ab944"
+              "root": "7a13163ba4b4a2a7d5b44baaf5721f0333d1e9aa55348737d0edc352ccc8429b",
+              "variants": "3777c717ae69e3f00ac0c7af7eae34e9351baed823a9e452acc053dd50e2e628",
+              "variants/darwin-arm64": "736f7cf5ce2c92b24790c7ab8d7f1921a020a1f80a4db92b59d335112056de0a",
+              "variants/linux-amd64": "3f8f26f0e24343191223e166da8d90398193ceaeec487f3231170a71fa468d0f"
             },
             "icon": "icon.png",
             "main": {
@@ -42,11 +42,11 @@
             "manifestVersion": "0.3.0",
             "name": "logos_forum",
             "type": "ui_qml",
-            "version": "0.1.10",
+            "version": "0.1.11",
             "view": "qml/Main.qml"
           },
           "urls": [
-            "https://github.com/edenbd1/logos-forum-catalog/releases/download/logos_forum-v0.1.10/logos_forum-0.1.10.lgx"
+            "https://github.com/edenbd1/logos-forum-catalog/releases/download/logos_forum-v0.1.11/logos_forum-0.1.11.lgx"
           ],
           "icon": {
             "path": "e0a7e63ad6997a2ad159b7f20fe68555eb83f1253abcc391ea97d4fe4543dee0.png",
